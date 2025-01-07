@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-
+print("Hello Akbota")
 # Загрузка данных из файла
 file_path = "datasets/abalone.data"  # Укажите путь к вашему файлу
 columns = ['Sex', 'Length', 'Diameter', 'Height', 'Whole weight',
