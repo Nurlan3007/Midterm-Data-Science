@@ -96,6 +96,8 @@
 	Shell weight	continuous	grams	after being dried
 	Rings		integer			+1.5 gives the age in years
 
+    8D
+
    Statistics for numeric domains:
 
 		Length	Diam	Height	Whole	Shucked	Viscera	Shell	Rings
